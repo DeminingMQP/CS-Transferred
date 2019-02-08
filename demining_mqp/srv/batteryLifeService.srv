@@ -1,7 +1,0 @@
-int64 oldBatteryLife
-int64 x
-int64 y
-int64 chargeLoc
-int64 maxBattery
----
-int64 newBatteryLife
